@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "soft-art-5a62",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "dacb25e2-08bd-4e83-bba3-0a5e64bad43d",
+      "database_name": "broad-salad-5b02-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
